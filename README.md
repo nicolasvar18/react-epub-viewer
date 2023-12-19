@@ -12,7 +12,7 @@
 
 **React-Epub-Viewer** is Epub Viewer for React.js powered by [Epub.js](https://github.com/futurepress/epub.js/) v0.3
 
-You can use React-Epub-Viewer together with React. 
+You can use React-Epub-Viewer together with React. prueba
 
 
 
